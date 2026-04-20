@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mexxez16
 - 👀 I’m interested in AI
-- 🌱 I’m currently learning to create RAG, CAG, Fine-Tuning
+- 🌱 I’m currently developing frontier neuoro-symbolic AI platforms and practical apps which can use ai
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
