@@ -7,8 +7,8 @@
 I build AI that reasons on structure: knowledge graphs that do more than passive retrieval. My focus is Graph-RAG and agentic workflows that keep LLM output verifiable, hallucination-resistant and resource-efficient — local-first, no data center required.
 
 - 🔭 **Founder of SGDiRAG** — a neuro-symbolic Graph-RAG architecture where the knowledge graph dynamically feeds LLM reasoning (core is private; evaluation write-ups coming)
-- 🧪 **Currently building:** reproducible benchmarks for Graph-RAG vs. classic RAG
-- 🌱 **Currently learning by applying:** GNNs with PyTorch Geometric, ontology engineering (OWL, RDF, SPARQL)
+- 🧪 **Currently building:** semantic Graph RAG, small AI model coach app, Agentic AI apps, AI gardening app
+- 🌱 **Currently learning by applying:** GNNs with PyTorch Geometric, ontology engineering (OWL), neuro-sybombolic AI, symbolic AI, finetuning, training, LLM engine modification
 - 💬 **Ask me about:** knowledge graphs, hallucination reduction, local-first AI, evaluation methodology
 - 📫 **Reach me:** Here or via [LinkedIn](https://www.linkedin.com/in/kenichi-maximilian-pestemer-57079ba0)
 
