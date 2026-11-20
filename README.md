@@ -1,3 +1,5 @@
+![description](https://github.com/mexxez16/mexxez16/max_gh_title_image.webp?raw=true)
+
 # Hi, I'm Max 👋
 
 **AI Engineer · Knowledge Graphs · Neuro-Symbolic AI · Agentic Systems**
