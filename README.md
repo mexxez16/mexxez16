@@ -1,4 +1,4 @@
-![description](https://github.com/mexxez16/mexxez16/max_gh_title_image.webp?raw=true)
+![description](https://raw.githubusercontent.com/mexxez16/mexxez16/refs/heads/main/max_gh_title_image.webp)
 
 # Hi, I'm Max 👋
 
