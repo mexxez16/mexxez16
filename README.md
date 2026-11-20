@@ -8,7 +8,7 @@ I build AI that reasons on structure: knowledge graphs that do more than passive
 
 - 🔭 **Founder of SGDiRAG** — a neuro-symbolic Graph-RAG architecture where the knowledge graph dynamically feeds LLM reasoning (core is private; evaluation write-ups coming)
 - 🧪 **Currently building:** semantic Graph RAG, small AI model coach app, Agentic AI apps, AI gardening app
-- 🌱 **Currently learning by applying:** GNNs, ontology engineering (OWL), neuro-sybombolic AI, symbolic AI, finetuning, training, LLM engine modification
+- 🌱 **Currently learning by applying:** GNNs, ontology engineering (OWL, BFO, custom etc.), neuro-sybombolic AI, symbolic AI, finetuning, training, LLM engine modification
 - 💬 **Ask me about:** knowledge graphs, hallucination reduction, local-first AI, evaluation methodology
 - 📫 **Reach me:** Here or via [LinkedIn](https://www.linkedin.com/in/kenichi-maximilian-pestemer-57079ba0)
 
