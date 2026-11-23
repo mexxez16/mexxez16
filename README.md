@@ -33,7 +33,7 @@ I build AI that reasons on structure: knowledge graphs that do more than passive
 
 ## Featured
 
-🚧 [graph-rag-benchmarks](https://github.com/mexxez16) — *work in progress*: reproducible evaluation of classic RAG vs. neuro-symbolic Graph-RAG / GNN (metrics, seeds, error analysis)
+🚧 [benchamrks](https://github.com/mexxez16) — *work in progress*: reproducible evaluation of classic RAG vs. neuro-symbolic Graph-RAG / GNN (metrics, seeds, error analysis)
 
 *More Open Source repositories will go live as they mature. Pinned slots are reserved for evaluation and tooling work.*
 
